@@ -1,1 +1,1 @@
-# MyInssetWeather
+Projet étudiant qui consiste à créer une station météo pour l'INSSET.

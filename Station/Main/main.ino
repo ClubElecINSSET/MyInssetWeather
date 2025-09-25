@@ -93,9 +93,6 @@ void setup() {
     Serial.println("Sensor initialized successfully!");
 }
 
-void loop(){}
-
-/*
 
 void loop() {
     // Lecture de la girouette
@@ -159,4 +156,3 @@ void loop() {
                 ",Direction:" + String(angle) + ",Pluie:" + String(valeur_pluie));
     }
 }
-*/
