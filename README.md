@@ -49,9 +49,9 @@ MyInssetWeather is an autonomous weather station developed as part of a Club Ele
 ```
 ├── 📁 Station/
 │       ├── 📁 Main/
-│       │      └── 📄 main.ino
+│       │   └── 📄 main.ino
 │       └── 📁 PCB/
-│               └── 📄 WeatherStation.eprj
+│            └── 📄 WeatherStation.eprj
 ├── 📜 LICENSE
 └── 📖 README.md
 ```
