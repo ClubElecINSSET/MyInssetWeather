@@ -48,10 +48,10 @@ MyInssetWeather is an autonomous weather station developed as part of a Club Ele
 
 ```
 ├── 📁 Station/
-│       ├── 📁 Main/
-│       │   └── 📄 main.ino
-│       └── 📁 PCB/
-│            └── 📄 WeatherStation.eprj
+│   ├── 📁 Main/
+│   │   └── 📄 main.ino
+│   └── 📁 PCB/
+│       └── 📄 WeatherStation.eprj
 ├── 📜 LICENSE
 └── 📖 README.md
 ```
@@ -86,10 +86,10 @@ MyInssetWeather is an autonomous weather station developed as part of a Club Ele
 
 | Name | Class | Position |
 |-----|------|------------|
-| **Thomas Cousiney** | L3MN | President |
-| **Yoni Taine** | L3MN | Vice-President |
-| **Eliot Hauet** | L3MN | Secretary |
-| **Zakariya EL Kandoussi** | L3SE | Member |
+| **[Thomas](https://github.com/Thomas127)** | L3MN | President |
+| **[Yoni](https://github.com/LordYoni)** | L3MN | Vice-President |
+| **[Eliot](https://github.com/GrosChien)** | L3MN | Secretary |
+| **[Zakariya](https://github.com/zakariyaelk)** | L3SE | Member |
 
 ### Supervision
 - **Institution** : INSSET (Club Elec)
